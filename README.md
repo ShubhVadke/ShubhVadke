@@ -16,7 +16,7 @@
 <!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetJawale&theme=cobalt&langs_count=8&layout=compact)-->
 
 <a href="https://github.com/ShubhVadke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhVadke&theme=cobalt&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats?username=ShubhVadke&theme=cobalt&langs_count=8&layout=compact" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShubhVadke">
   <img align="center" src="https://github-readme-stats?username=ShubhVadke&show_icons=true&theme=cobalt&count_private=true" />
