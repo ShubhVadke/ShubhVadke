@@ -41,6 +41,9 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 <a href="https://github.com/ShubhVadke">
+  <img src="https://img.shields.io/badge/react%20-%2300599C.svg?&style=for-the-badge&logo=react%2B%2B&ogoColor=white"/>
+</a>
+<a href="https://github.com/ShubhVadke">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
