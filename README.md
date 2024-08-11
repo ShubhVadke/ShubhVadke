@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-  <img src="https://img.shields.io/badge/springboot-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-%2314354C.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
