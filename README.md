@@ -1,4 +1,4 @@
-👋  Hey there! I'm Shubham Vadke.
+<h1>👋  Hey there! I'm Shubham Vadke.</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/ShubhVadke?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-ShubhVadke&color=blueviolet)
@@ -18,7 +18,9 @@
 </a>
 
 
-</> Languages and Tools
+
+
+<h1><b></> Languages and Tools</b></h1>
 <p>
   <img src="https://img.shields.io/badge/java-FF3E00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
