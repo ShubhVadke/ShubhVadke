@@ -4,8 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-ShubhVadke&color=blueviolet)
 
 -🎓 I Have Done My Master in Computer Science From the Savitribai Phule Pune University.<br>
--📝 Being Curious about how Everything works on computers with just a click, I entered the world of computer science <br>
-     and was really amazed by seeing that programming a computer was fun and very intuitive.<br>
+-📝 Being Curious about how Everything works on computers with just a click, I entered the world of computer science<br>and was really amazed by seeing that programming a computer was fun and very intuitive.
 -💡 I’m currently working on problem-solving skills.<br>
 -✍🏻 I’m currently learning competitive coding.<br>
 
