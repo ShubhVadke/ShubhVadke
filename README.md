@@ -6,8 +6,8 @@
 
 #### 🌱 I Have Done My Master of Science in Computer Science From the Savitribai Phule Pune University
 #### Being Curious about how Everything works on computers with just a click, I entered the world of computer science and was really amazed by seeing that programming a computer was fun and very intuitive.
-#### - 🔭 I’m currently working on problem-solving skills
-#### - 🌱 I’m currently learning competitive coding
+- 🔭 I’m currently working on problem-solving skills
+- 🌱 I’m currently learning competitive coding
 
 #### 🌐 Visit my [Linkedin Profile](https://www.linkedin.com/in/shubhamvadke/)
 
@@ -24,38 +24,20 @@
 
 
 
-### My Skill-Set
-<a href="https://github.com/ShubhVadke">
+### Languages and Tools
+<p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%2314354C.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</a>
-<a href="https://github.com/ShubhVadke">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</a>
-<a href="https://github.com/ShubhVadke">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
-
+</p>
 
 #### 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/shubhamvadke/)
 #### Reach out to me [here!](mailto:shubhvadke@gmail.com?subject=[GitHub]) My Inbox is always open to any opportunities, advices or suggestions
