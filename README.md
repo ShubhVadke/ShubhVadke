@@ -10,11 +10,6 @@
 - 🌱 I’m currently learning competitive coding
 
 #### 🌐 Visit my [Linkedin Profile](https://www.linkedin.com/in/shubhamvadke/)
-
-<!--<img align = "left" src="https://raw.githubusercontent.com/SujeetJawale/SujeetJawale/master/gif1.gif"  width="200" height="185" alt="Hello!">        -->
-<!--![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=SujeetJawale&show_icons=true&theme=cobalt&count_private=true)-->
-<!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetJawale&theme=cobalt&langs_count=8&layout=compact)-->
-
 <a href="https://github.com/ShubhVadke">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhVadke&theme=cobalt&langs_count=8&layout=compact" />
 </a>
@@ -26,7 +21,7 @@
 
 ### Languages and Tools
 <p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF3E00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-%2314354C.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
