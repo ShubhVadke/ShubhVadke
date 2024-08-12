@@ -3,11 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/ShubhVadke?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-ShubhVadke&color=blueviolet)
 
-- 🎓 I Have Done My Master in Computer Science From the Savitribai Phule Pune University.
-- 📝 Being Curious about how Everything works on computers with just a click, I entered the world of computer science <br>
-      and was really amazed by seeing that programming a computer was fun and very intuitive.
-- 💡 I’m currently working on problem-solving skills.
-- ✍🏻 I’m currently learning competitive coding.
+🎓 I Have Done My Master in Computer Science From the Savitribai Phule Pune University.
+📝 Being Curious about how Everything works on computers with just a click, I entered the world of computer science <br>
+    and was really amazed by seeing that programming a computer was fun and very intuitive.
+💡 I’m currently working on problem-solving skills.
+✍🏻 I’m currently learning competitive coding.
 
 
 <a href="https://github.com/ShubhVadke">
@@ -20,7 +20,7 @@
 
 
 
-<h1><b><code></></code></> Languages and Tools</b></h1>
+<h1><b>🌟 Languages and Tools</b></h1>
 <p>
   <img src="https://img.shields.io/badge/java-FF3E00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
