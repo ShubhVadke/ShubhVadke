@@ -5,9 +5,9 @@
 
 🎓 I Have Done My Master in Computer Science From the Savitribai Phule Pune University.
 📝 Being Curious about how Everything works on computers with just a click, I entered the world of computer science <br>
-    and was really amazed by seeing that programming a computer was fun and very intuitive.
-💡 I’m currently working on problem-solving skills.
-✍🏻 I’m currently learning competitive coding.
+    and was really amazed by seeing that programming a computer was fun and very intuitive.<br>
+💡 I’m currently working on problem-solving skills.<br>
+✍🏻 I’m currently learning competitive coding.<br>
 
 
 <a href="https://github.com/ShubhVadke">
