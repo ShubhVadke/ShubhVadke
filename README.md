@@ -26,37 +26,34 @@
 
 ### My Skill-Set
 <a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
   <img src="https://img.shields.io/badge/springboot-%2314354C.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-  <img src="https://img.shields.io/badge/react%20-%2300599C.svg?&style=for-the-badge&logo=reactjs%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </a>
 <a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 <a href="https://github.com/ShubhVadke">
-<img src ="https://img.shields.io/badge/sqlite-%3121011.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a>
-<a href="https://github.com/ShubhVadke">
-<img src="https://img.shields.io/badge/mongo%20-%23150458.svg?&style=for-the-badge&logo=mongo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
 
