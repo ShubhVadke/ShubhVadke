@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Shubham
 
-**`Software Developer`**
 
 ![GitHub followers](https://img.shields.io/github/followers/ShubhVadke?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-ShubhVadke&color=blueviolet)
