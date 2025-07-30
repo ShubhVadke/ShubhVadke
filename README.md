@@ -3,6 +3,7 @@ I am a `fullstack` software developer based in `India`.
 
 - 🗃️ Working on multiple frontend and backend projects
 - 🎯 I’m currently working on problem-solving skills
+- 🌐 Visit my [Linkedin Profile](https://www.linkedin.com/in/shubhamvadke/)
 
 ## 🎓 Skills
 
