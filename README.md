@@ -1,5 +1,5 @@
 # Hello Guys 👋
-I am a `fullstack` software engineer based in `India`.
+I am a `fullstack` software developer based in `India`.
 
 - 🗃️ Working on multiple frontend and backend projects
 - 🎯 I’m currently working on problem-solving skills
