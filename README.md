@@ -1,4 +1,4 @@
-0# Hello Guys 👋
+# Hello Guys 👋
 I am a `fullstack` software developer based in `India`.
 
 - 🗃️ Working on multiple frontend and backend projects
