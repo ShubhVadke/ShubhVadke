@@ -6,6 +6,7 @@ Being Curious about how Everything works on computers with just a click, I enter
 - 🗃️ Working on multiple frontend and backend projects
 - 🎯 I’m currently exploring Gen AI
 - 🌐 Visit my [Linkedin Profile](https://www.linkedin.com/in/shubhamvadke/)
+- 📫 Visit my Portfolio [Portfolio](https://shubhamvadke.vercel.app/)
 
 ## 🎓 Skills
 
