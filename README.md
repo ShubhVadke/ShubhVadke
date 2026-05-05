@@ -7,4 +7,4 @@ I am a `fullstack` software developer based in `India`.
 
 ## 🎓 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,typescript,react,nodejs,mysql,postgres,mongodb,docker,postman,maven,git&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,typescript,react,nodejs,mysql,postgres,mongodb,docker,postman,maven,git,figma&perline=7&theme=light)](https://skillicons.dev)
