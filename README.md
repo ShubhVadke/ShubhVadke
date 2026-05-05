@@ -1,8 +1,10 @@
-# Hello Guys 👋
-I am a `fullstack` software developer based in `India`.
+# Hey there ! I'm Shubham Vadke 👋
+I am a `Full-Stack` software developer based in `India`.
+
+Being Curious about how Everything works on computers with just a click, I entered the world of computer science and was really amazed by seeing that programming a computer was fun and very intuitive.
 
 - 🗃️ Working on multiple frontend and backend projects
-- 🎯 I’m currently working on problem-solving skills
+- 🎯 I’m currently exploring Gen AI
 - 🌐 Visit my [Linkedin Profile](https://www.linkedin.com/in/shubhamvadke/)
 
 ## 🎓 Skills
