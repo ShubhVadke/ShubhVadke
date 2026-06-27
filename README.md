@@ -10,4 +10,4 @@ Being Curious about how Everything works on computers with just a click, I enter
 
 ## 🎓 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,typescript,react,mysql,postgres,mongodb,docker,postman,git,figma&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,typescript,react,nodejs,mysql,postgres,mongodb,docker,postman,git,figma&perline=8&theme=light)](https://skillicons.dev)
